@@ -7,5 +7,12 @@ $dropdown-border-color: rgba(255,255,255,0.493);
 $dropdown-link-color:white;
 $dropdown-link-hover-color: rgba(255,255,255,0.493);
 $dropdown-link-hover-bg:$dark;
+
+//types
+$box-shadow: 0 .5rem 1rem rgba(255,255,255,0.678);
+h1.badge,.cardtooltip{
+    z-index: 1000 !important;
+}
+
 //bootstrap
 @import "node_modules/bootstrap/scss/bootstrap";
