@@ -1,0 +1,28 @@
+$dark:#111;
+$primary: #facd8a;
+$info: rgba(5,5,5,0);
+$navbar-dark-color:#facd8a;
+$navbar-dark-active-color:#facd8a;
+
+// Carousel-1
+$carousel-control-opacity: 0.85;
+$carousel-control-hover-opacity: 0.95;
+$carousel-control-width: 10%;
+.carousel img{
+    max-height: 80vh;
+}
+// Carousel-2
+$carousel-indicator-height: 15px;
+$carousel-indicator-width: 15px;
+$carousel-indicator-active-bg: #facd8a;
+
+
+//Clients
+.clients{
+    background-image: url(src/bg3.jpg);
+    background-attachment: fixed;
+    background-size:cover;
+}
+
+
+@import "node_modules/bootstrap/scss/bootstrap";

@@ -1,0 +1,17 @@
+{
+  "name": "fiction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "live-sass": "node-sass -w main.scss style.css"
+  },
+  "author": "Y/-\\N1",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  }
+}
