@@ -14,5 +14,15 @@ h1.badge,.cardtooltip{
     z-index: 1000 !important;
 }
 
+//fidner
+$accordion-bg: transparent;
+$accordion-color: white;
+$accordion-border-color: transparent;
+$accordion-border-radius: 0px;
+$accordion-button-color: black;
+$accordion-button-bg: rgba(255,255,255,0.4);
+
+//app
+
 //bootstrap
 @import "node_modules/bootstrap/scss/bootstrap";
